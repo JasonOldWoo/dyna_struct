@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = DynaStruct::VERSION
   spec.authors       = ["JC Wilcox"]
   spec.email         = ["84jwilcox@gmail.com"]
-  spec.summary       = %q{An alternative to Ruby's Struct, DynaStruct allows dynamic assignement of instance variables.}
+  spec.summary       = %q{An alternative to Ruby's Struct, DynaStruct allows dynamic assignment of instance variables.}
   spec.description   = %q{DynaStruct offers a number of classes which provide different ways to dynamically assign and interact with instance variables. This is accomplished through Ruby's metaprogramming, which allows the dynamic manipulation of data and methods for a specific object.}
   spec.homepage      = ""
   spec.license       = "MIT"
