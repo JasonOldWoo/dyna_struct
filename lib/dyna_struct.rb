@@ -6,6 +6,7 @@ require "dyna_struct/modifiable"
 require "dyna_struct/modifiable/base"
 require "dyna_struct/modifiable/reader"
 require "dyna_struct/modifiable/accessor"
+require "dyna_struct/full"
 
 module DynaStruct
   # Your code goes here...
